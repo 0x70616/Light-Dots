@@ -1,1 +1,6 @@
 hyprcursor hyprgraphics hypridle hyprland hyprland-guiutils hyprland-protocols hyprlock hyprutils hyprwayland-scanner xdg-desktop-portal-hyprland kitty kitty-shell-integration kitty-terminfo fish fisher 
+
+
+missioncenter git 
+
+zen-browser paru
